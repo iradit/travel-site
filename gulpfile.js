@@ -2,3 +2,4 @@ require('./gulp/tasks/styles');//pas besoin de mettre l'extension avec le REQUIR
 require('./gulp/tasks/watch');
 require('./gulp/tasks/sprites');
 require('./gulp/tasks/scripts');
+require('./gulp/tasks/modernizr');
